@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Krisotf, aka Kristof
-- 👀 I’m interested in webdev
+- 👀 I’m interested in Webdev and Final Fantasy
 - 🌱 I’m currently learning software development at SAIT
 - 📫 How to reach me: through Teams 
 - 😄 Pronouns: he/him
